@@ -1,0 +1,56 @@
+  color: #FF0000;
+}
+
+.blue {
+  color: #ffffff;
+}
+
+.green {
+  color: #008000;
+}
+
+.darkred {
+  background-color:rgb(63, 27, 121);
+}
+
+
+.blocksection {
+	display: flex;
+}
+
+.column {
+    width: 50%;
+    margin: 20px;
+}
+</style>
+<title>Цветовая модель RGB</title>
+</head>
+<body>
+  <h1>Цветовая модель RGB</h1>
+<div class="blocksection">
+<div class="column"><i><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B5%D1%80%D1%81-%D0%9B%D0%B8,_%D0%A2%D0%B8%D0%BC" >Тим Бернес-Ли(Создатель первой веб-страницы)</a></i>
+RGB <i>(аббревиатура английских слов red, green, blue - красный, зелёный, синий)</i> - цветовая модель, описывающая способ кодирования цвета в электронных устройствах. В модели RGB для цветовоспроизведения используются три цвета, которые принято называть основными: 
+</div>
+<div class="column"><s>
+Выбор именно этих цветов связан с особенностями строения сетчатки глаза человека. В сетчатке обнаружено 3 вида колбочек - рецепторов, ответственных за восприятие цвета. Рецептор каждого вида воспринимает только один из трёх цветов модели RGB.</s>
+</div>
+</div>
+  <b>
+   <ul> 
+        <li class="red">Красный (Red)</li>
+        <ol>
+        <li><img src="/uploads/2020/10/осень_1601586402.png"></li>
+        </ol>
+        <li class="green">Зелёный (Green)</li>
+        <ol>
+        <li><img src="/uploads/2020/10/лето_1601586394.png"> </li>
+    </ol>
+        <li class="blue darkred">Белый (White)</li>
+        <ol>
+        <li><img src="/uploads/2020/10/зима_1601586385.png"></li> 
+        <li><img src="/uploads/2020/10/весна_1601586373.png"></li> 
+    </ol>
+    </ul> 
+   </b>
+</body>
+</html>
